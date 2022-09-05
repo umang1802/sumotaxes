@@ -1,8 +1,8 @@
 const { Configuration, PlaidApi, PlaidEnvironments } = require("plaid");
 const moment = require("moment");
 
-const PLAID_CLIENT_ID = "625fa75d0af39a0014d79e02";
-const PLAID_SECRET = "533a671ddc3b4485bdcd15821f01d6";
+const PLAID_CLIENT_ID = "****************";
+const PLAID_SECRET = "*****************";
 const PLAID_ENV = "sandbox";
 const OAUTH_REDIRECT_URI = "http://localhost:3000/dashboard";
 
